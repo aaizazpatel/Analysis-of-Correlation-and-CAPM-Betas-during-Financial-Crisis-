@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains code and analysis for Project 2 of FINA 6333 – Spring 2024 course taught by Richard Herron. The project aims to investigate whether correlations tend to increase during financial crises and if there's a similar pattern for Capital Asset Pricing Model (CAPM) betas. The analysis utilizes daily returns data for S&P 500 stocks from 1980 through 2023.
+This repository contains code and analysis for Project 2 of FINA 6333 – Spring 2024 course taught by Richard Herron. The project aims to investigate whether correlations tend to converge during financial crises and if there's a similar pattern for Capital Asset Pricing Model (CAPM) betas. The analysis utilizes daily returns data for S&P 500 stocks from 1980 through 2023.
 
 ## Group Members
 

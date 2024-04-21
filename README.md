@@ -31,7 +31,7 @@ The analysis involves calculating correlations between stock returns during norm
 To reproduce the analysis:
 
 1. Ensure Python and Jupyter Notebook are installed on your system.
-2. Download the `Analysis of Correlation and CAPM Betas during Financial Crisis.ipynb` notebook and `sp500.csv` data file.
+2. Download the `Analysis of Correlation and CAPM Betas during Financial Crisis.ipynb` notebook and `sp500.csv` [Link : https://northeastern-my.sharepoint.com/:x:/r/personal/patel_aai_northeastern_edu/Documents/Data%20Analytics/sp500.csv?d=w3f096d4f5d254d1fa55cff0fcb91f5f0&csf=1&web=1&e=ST3tfD] data file.
 3. Open the notebook in Jupyter Notebook.
 4. Run all cells in the notebook to perform the analysis and generate results.
 

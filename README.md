@@ -1,4 +1,4 @@
-# Project 2: Analysis of Correlation and CAPM Betas during Financial Crisis README
+# Project: Analysis of Correlation and CAPM Betas during Financial Crisis README
 
 ## Introduction
 
